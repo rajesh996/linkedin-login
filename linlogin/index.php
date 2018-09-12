@@ -1,0 +1,1 @@
+<a href="https://www.linkedin.com/oauth/v2/authorization?response_type=code&client_id=81u7mrr57owu0s&redirect_uri=http://localhost/linlogin/callback.php&state=987654321&scope=r_basicprofile+r_emailaddress">Register With LinkedIn</a>
